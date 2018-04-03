@@ -1,0 +1,3 @@
+[submodule "visual-novel-engine"]
+	path = visual-novel-engine
+	url = https://github.com/clovis-ai/visual-novel-engine.git
